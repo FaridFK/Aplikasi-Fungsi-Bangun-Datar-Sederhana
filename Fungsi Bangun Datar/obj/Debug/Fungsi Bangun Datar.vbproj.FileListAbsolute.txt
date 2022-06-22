@@ -1,0 +1,12 @@
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 6  Procedure and Function\Fungsi Bangun Datar\bin\Debug\Fungsi Bangun Datar.exe.config
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 6  Procedure and Function\Fungsi Bangun Datar\bin\Debug\Fungsi Bangun Datar.exe
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 6  Procedure and Function\Fungsi Bangun Datar\bin\Debug\Fungsi Bangun Datar.pdb
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 6  Procedure and Function\Fungsi Bangun Datar\bin\Debug\Fungsi Bangun Datar.xml
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 6  Procedure and Function\Fungsi Bangun Datar\obj\Debug\Fungsi Bangun Datar.vbprojAssemblyReference.cache
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 6  Procedure and Function\Fungsi Bangun Datar\obj\Debug\Fungsi_Bangun_Datar.Form1.resources
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 6  Procedure and Function\Fungsi Bangun Datar\obj\Debug\Fungsi_Bangun_Datar.Resources.resources
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 6  Procedure and Function\Fungsi Bangun Datar\obj\Debug\Fungsi Bangun Datar.vbproj.GenerateResource.cache
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 6  Procedure and Function\Fungsi Bangun Datar\obj\Debug\Fungsi Bangun Datar.vbproj.CoreCompileInputs.cache
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 6  Procedure and Function\Fungsi Bangun Datar\obj\Debug\Fungsi Bangun Datar.exe
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 6  Procedure and Function\Fungsi Bangun Datar\obj\Debug\Fungsi Bangun Datar.xml
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 6  Procedure and Function\Fungsi Bangun Datar\obj\Debug\Fungsi Bangun Datar.pdb
